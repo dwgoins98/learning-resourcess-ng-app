@@ -26,6 +26,10 @@ main {
   .authenticated {
     background-color: #3a096a;
   }
+
+  .unauthenticated {
+    background-color: #6a0931;
+  }
   
   .admin {
     background-color: #1354be;
